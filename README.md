@@ -2,7 +2,7 @@
 
 # Week 1 Reflectie
 
-
+![concept spel](Images/image.png)
 
 Titel: Loaf in Space
 
