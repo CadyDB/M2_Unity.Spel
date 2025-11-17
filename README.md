@@ -3,6 +3,7 @@
 # Week 1 Reflectie
 
 ![PapaPearSaga](Images/image.png)
+(het gaat een beetje hier op lijken dus gwn voorbeeld)
 
 Titel: Loaf in Space
 
